@@ -2,8 +2,6 @@
 
 wd=$(pwd)
 
-echo $wd
-
 url="https://discord.com/api/download?platform=linux&format=deb"
 wget -O ./discord.deb $url
 
