@@ -16,8 +16,7 @@ so I made this.
 - Debian
 - Bash script (works with **bash**, **zsh**, or any compatible shell)
 - Internet connection (Discord still has to come from somewhere)
-
-- **obs**: you can modify the script in url's part: [format=your-distro-format-here] to make it unique like you ;)
+  
 ---
 
 ## Usage
